@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
+<img alt="GitHub" src="https://img.shields.io/badge/SAGIRI%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
 <br><br>
   
 > A whatsapp bot made using adiwajshing/Baileys library
@@ -14,16 +14,16 @@
  
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HilmySakti/tesdoangbang/)
 
-[![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github/justpiple/whatsapp-bot)
+[![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github.com/HilmySakti/tesdoangbang)
 
 
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/KurrXd/kurr-X-trash
-> cd kurr-X-trash
+> git clone https://github.com/HilmySakti/tesdoangbang
+> cd tesdoangbang
 > npm i
 ```
 ### For termux users before running the above command write this command
@@ -49,7 +49,7 @@ after start it you need to scan the qr
 ### Contact me
 
 
-- [WHATSAPP](http://wa.me/6281220670449)
+- [WHATSAPP](http://wa.me/6281217779427)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EymjfVUattCJSGg58WPvrd)
 
 
